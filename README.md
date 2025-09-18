@@ -34,7 +34,7 @@ Dataset source: [MNIST - Yann LeCun](http://yann.lecun.com/exdb/mnist/)
 - **Input layer**: 784 neurons (28x28 pixels)
 - **Hidden layer**: 10 neurons (configurable)
 - **Output layer**: 10 neurons (for digits 0–9)
-- **Activation**: ReLU / Sigmoid (hidden), Softmax (output)
+- **Activation**: ReLU (hidden), Softmax (output)
 
 ## Installation
 
